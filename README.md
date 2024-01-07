@@ -1,7 +1,7 @@
 ## Greetings!
-I am a master student in the School of Astronautics at Beihang University (BUAA).
+I am a master student in the School of Astronautics at Beihang University.
 My research interests include **dynamics and control, reinforcement learning and satellite formation flying**.
-Please refer to my \[[homepage](https://zcen-xiong.github.io/)\] for more information.
+Please refer to my \[[homepage](https://zcen-xiong.github.io)\] for more information.
 
 <!---
 ZCen-Xiong/ZCen-Xiong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
