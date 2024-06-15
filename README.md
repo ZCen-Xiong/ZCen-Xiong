@@ -1,6 +1,6 @@
 ## Greetings!
 I am a master student in the School of Astronautics at Beihang University.
-My research interests include **dynamics and control, reinforcement learning and satellite formation flying**.
+My research interests include **Robotics, Dynamics and control, Reinforcement learning**.
 Please refer to my \[[homepage](https://zcen-xiong.github.io)\] for more information.
 
 <!---
