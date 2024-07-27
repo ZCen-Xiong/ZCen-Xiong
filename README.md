@@ -1,5 +1,5 @@
 ## Greetings!
-I am a master student majoring in dynamics and control at Beihang University. //
+I am a master student majoring in dynamics and control at Beihang University.  
 Please refer to my \[[homepage](https://zcen-xiong.github.io)\] for more information.
 ![Metrics](/github-metrics.svg)
 <!---
